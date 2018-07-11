@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>RoadLarge Crosswalk copy</title>
+  <g id="Black_Taper" data-name="Black Taper">
+    <rect x="430.13853" y="256" width="8.03137" height="768" fill="#231f20"/>
+  </g>
+  <g id="Yellow_Taper" data-name="Yellow Taper">
+    <rect x="422.10715" y="256" width="8.03137" height="768" fill="#fed318"/>
+    <rect x="438.1699" y="256" width="8.03137" height="768" fill="#fed318"/>
+  </g>
+  <g id="White_Lines" data-name="White Lines">
+    <rect x="959.74902" y="256" width="8.03137" height="768" fill="#fff"/>
+    <rect x="504" y="-264" width="16" height="1024" transform="translate(760 -264) rotate(90)" fill="#fff"/>
+    <rect x="504" y="-504" width="16" height="1024" transform="translate(520 -504) rotate(90)" fill="#fff"/>
+    <rect x="593.86147" y="256" width="8.03137" height="768" fill="#fff"/>
+    <rect x="56.21961" y="256" width="8.03137" height="768" fill="#fff"/>
+    <rect x="779.04314" y="256" width="8.03137" height="192" fill="#fff"/>
+    <rect x="236.92549" y="256" width="8.03137" height="64" fill="#fff"/>
+    <rect x="779.04314" y="448" width="8.03137" height="64" fill="#fff"/>
+    <rect x="236.92549" y="512" width="8.03137" height="64" fill="#fff"/>
+    <rect x="779.04314" y="704" width="8.03137" height="64" fill="#fff"/>
+    <rect x="236.92549" y="768" width="8.03137" height="64" fill="#fff"/>
+    <rect x="779.04314" y="960" width="8.03137" height="64" fill="#fff"/>
+    <rect x="13.98729" y="16" width="26.26611" height="224" fill="#fff"/>
+    <rect x="64.25098" y="16" width="26.26611" height="224" fill="#fff"/>
+    <rect x="114.51468" y="16" width="26.26611" height="224" fill="#fff"/>
+    <rect x="164.77838" y="16" width="26.26611" height="224" fill="#fff"/>
+    <rect x="215.04208" y="16" width="26.26611" height="224" fill="#fff"/>
+    <rect x="265.30578" y="16" width="26.26611" height="224" fill="#fff"/>
+    <rect x="315.56948" y="16" width="26.26611" height="224" fill="#fff"/>
+    <rect x="365.83318" y="16" width="26.26611" height="224" fill="#fff"/>
+    <rect x="416.09688" y="16" width="26.26611" height="224" fill="#fff"/>
+    <rect x="466.36058" y="16" width="26.26611" height="224" fill="#fff"/>
+    <rect x="516.62428" y="16" width="26.26611" height="224" fill="#fff"/>
+    <rect x="566.88798" y="16" width="26.26611" height="224" fill="#fff"/>
+    <rect x="617.15168" y="16" width="26.26611" height="224" fill="#fff"/>
+    <rect x="667.41538" y="16" width="26.26611" height="224" fill="#fff"/>
+    <rect x="717.67908" y="16" width="26.26611" height="224" fill="#fff"/>
+    <rect x="767.94278" y="16" width="26.26611" height="224" fill="#fff"/>
+    <rect x="818.20648" y="16" width="26.26611" height="224" fill="#fff"/>
+    <rect x="868.47018" y="16" width="26.26611" height="224" fill="#fff"/>
+    <rect x="918.73388" y="16" width="26.26611" height="224" fill="#fff"/>
+    <rect x="968.99758" y="16" width="26.26611" height="224" fill="#fff"/>
+  </g>
+</svg>

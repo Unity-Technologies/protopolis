@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>RoadLargeLargeIntersection</title>
+  <g id="White_Lines" data-name="White Lines">
+    <rect x="130" y="882" width="764" height="12" fill="#fff"/>
+    <rect x="172" y="1012" width="680" height="12" fill="#fff"/>
+    <rect x="130" y="130" width="764" height="12" fill="#fff"/>
+    <rect x="172" width="680" height="12" fill="#fff"/>
+    <rect x="678" y="506" width="680" height="12" transform="translate(506 1530) rotate(-90)" fill="#fff"/>
+    <rect x="-334" y="506" width="680" height="12" transform="translate(-506 518) rotate(-90)" fill="#fff"/>
+    <rect x="518" y="506" width="740" height="12" transform="translate(376 1400) rotate(-90)" fill="#fff"/>
+    <rect x="-234" y="506" width="740" height="12" transform="translate(-376 648) rotate(-90)" fill="#fff"/>
+  </g>
+</svg>
